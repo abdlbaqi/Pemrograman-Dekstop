@@ -1,0 +1,27 @@
+﻿Public Class Form2
+
+    Private Sub Form2_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        CbJurusan.Items.Add("Sistem Informasi")
+        CbJurusan.Items.Add("Ilmu Komputer")
+        CbJurusan.Items.Add("Manajemen Informatika")
+    End Sub
+
+    Private Sub CbJurusan_SelectedIndexChanged(sender As Object, e As EventArgs) Handles CbJurusan.SelectedIndexChanged
+        Dim Jurusan As String = CbJurusan.SelectedItem
+        CbMataKuliah.Items.Clear()
+        Select Case (Jurusan)
+            Case "Sistem Informasi"
+                CbMataKuliah.Items.Add("Logika Informatika")
+                CbMataKuliah.Items.Add("Matematika Diskrit")
+                CbMataKuliah.Items.Add("Aljabar Liner")
+            Case "Ilmu Komputer"
+                CbMataKuliah.Items.Add("Kecerdasan Buatan")
+                CbMataKuliah.Items.Add("IOT")
+                CbMataKuliah.Items.Add("Robotika")
+            Case "Manajemen Informatika"
+                CbMataKuliah.Items.Add("Pemrograman Desktop")
+                CbMataKuliah.Items.Add("OOP")
+                CbMataKuliah.Items.Add("Pemrograman Web")
+        End Select
+    End Sub
+End Class
