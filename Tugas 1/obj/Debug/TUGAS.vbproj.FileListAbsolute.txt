@@ -1,0 +1,4 @@
+C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\bin\Debug\Tugas 1.exe.config
+C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas 1.exe
+C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas 1.xml
+C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas 1.pdb
