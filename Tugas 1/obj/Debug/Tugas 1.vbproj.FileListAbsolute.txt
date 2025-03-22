@@ -19,3 +19,4 @@ C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tuga
 C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Form2.resources
 C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Resources.resources
 C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas 1.vbproj.GenerateResource.Cache
+C:\Users\fuadb\OneDrive\Documents\Visual Studio 2013\Projects\TUGAS\Tugas 1\Tugas 1\obj\Debug\Tugas_1.Form3.resources
